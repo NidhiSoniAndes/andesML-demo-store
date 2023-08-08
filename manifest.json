@@ -1,7 +1,9 @@
 {
-  "vendor": "vtex",
+  "vendor": "andesmlpartnerus",
   "name": "store-theme",
-  "version": "5.1.0",
+  "version": "0.0.1",
+  "title": "AndesML",
+  "description": "The Retail Media Platform, from LATAM to the world.",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
