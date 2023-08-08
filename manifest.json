@@ -1,7 +1,7 @@
 {
   "vendor": "demoappstor",
   "name": "store-theme",
-  "version": "2.0.0-beta.0",
+  "version": "3.0.0-beta.0",
   "title": "AndesML",
   "description": "The Retail Media Platform, from LATAM to the world.",
   "builders": {
